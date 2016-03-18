@@ -45,7 +45,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "flay",                  ["~> 2.7"]
   s.add_runtime_dependency "churn",                 ["~> 1.0"]
   s.add_runtime_dependency "flog",                  ["~> 4.3"]
-  s.add_runtime_dependency "reek",                  ["~> 3.0"]
+  s.add_runtime_dependency "reek",                  ["~> 3.11"]
   s.add_runtime_dependency "cane",                  ["~> 3.0"]
   s.add_runtime_dependency "rails_best_practices",  ["~> 1.16"]
   s.add_runtime_dependency "metric_fu-Saikuro",     [">= 1.1.3",  "~> 1.1"]
